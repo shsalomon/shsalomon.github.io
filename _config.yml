@@ -9,11 +9,11 @@
 locale                   : "en-UK"
 title                    : "Main"
 title_separator          : "-"
-name                     : &name "Chris Mingard"
+name                     : &name "Sedjro Salomon Hotegni"
 description              : &description "personal description"
-url                      : https://C1510.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shsalomon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "C1510/C1510.github.io"
+repository               : "shsalomon/shsalomon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Mingard"
+  name             : "Sedjro Salomon Hotegni"
   avatar           : "profile.png"
-  bio              : "DPhil student studying generalisation in neural networks, Oxford University"
-  location         : "Oxford, UK"
+  bio              : "PhD student in Data Science for Engineering, Paderborn University"
+  location         : "Paderborn, DE"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=xTMeOcYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=4FV8k9YAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sedjro-Salomon-Hotegni" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "C1510"
+  github           : "shsalomon"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-4519-9709"
+  orcid            : "https://orcid.org/0000-0002-5682-467X" # "https://orcid.org/0000-0002-4519-9709"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "chris_mingard"
+  twitter          : #"chris_mingard"
   vine             :
   weibo            :
   xing             :
