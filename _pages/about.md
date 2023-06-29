@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year DPhil Student at the University of Oxford working on optimisation and generalisation in neural networks.
-I have studied the connections between Bayesian Neural Networks (e.g. Neural Network Gaussian Processes) and their
-optimiser-trained counterparts. Right now, I am looking at feature learning with [Yoonsoo Nam](https://www.physics.ox.ac.uk/our-people/yoonsoonam).
+Welcome to my personal webpage!🤗
 
-On the optimisation front, I am working on a more fundamental theory of optimisation, leveraging neural network
-architecture bounds, with [Jeremy Bernstein](https://jeremybernste.in).
+I'm a PhD student in **Data Science for Engineering** at **Paderborn University**, in **Germany**. As a member of the AI junior research group **“Multicriteria Machine Learning – Efficiency, Robustness, Inter-activity and System Knowledge”**, I'm currently working with [Jun.-Prof. Dr. Sebastian Peitz](https://www.uni-paderborn.de/en/person/47427) on the development of efficient optimization algorithms for training neural networks regarding multiple conflicting objective functions.
+Before joining the University of Paderborn, I completed a Master's program in **Mathematical Sciences** with a specialization in **Data Science** at the **African Institute for Mathematical Sciences**, in **Rwanda**.
 
-See the blog posts tab for informal summaries, or check out the Publications tab for the papers.
-
-I like cricket. [Here](https://www.youtube.com/watch?v=KroTWgfz-mA&t=17782s) is a video from our varsity match last year.
+Glad you visited my page. You can take a look at my latest post, and if you enjoyed it, the previous ones will be thrilled to have you!🤗👐 <br />
+I will be happy to receive feedback from you. **Stay connected !** 💪
