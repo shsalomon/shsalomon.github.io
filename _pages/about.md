@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal webpage!🤗
+Welcome to my personal website!🤗
 
 I'm a PhD student in **Data Science for Engineering** at **Paderborn University**, in **Germany**. As a member of the AI junior research group **“Multicriteria Machine Learning – Efficiency, Robustness, Inter-activity and System Knowledge”**, I'm currently working with [Jun.-Prof. Dr. Sebastian Peitz](https://www.uni-paderborn.de/en/person/47427) on the development of efficient optimization algorithms for training neural networks regarding multiple conflicting objective functions.
 Before joining the University of Paderborn, I completed a Master's program in **Mathematical Sciences** with a specialization in **Data Science** at the **African Institute for Mathematical Sciences**, in **Rwanda**.
