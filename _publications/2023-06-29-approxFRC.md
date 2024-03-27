@@ -4,7 +4,7 @@ collection: Proceedings of the 40 th International Conference on Machine Learnin
 permalink: /publications/2023-approxFRC
 excerpt: 'Approximation Algorithms for Fair Range Clustering'
 date: 2023-06-29
-venue: 'ICML 2023'
+venue: 'ICML 2023, Hawaii, USA'
 citation: 'Hotegni, S.S., Mahabadi, S. and Vakilian, A., 2023, July. Approximation Algorithms for Fair Range Clustering. In International Conference on Machine Learning (pp. 13270-13284). PMLR.'
 ---
 
