@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/shsalomon_QR.png" alt="QR code" width="150">
+  <img src="/images/ai_neuron.png" alt="QR code" width="150">
 </p>
 
 Welcome to my personal website!🤗
