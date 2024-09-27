@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sedjro Salomon Hotegni"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Data Science for Engineering, Paderborn University"
-  location         : "Paderborn, DE"
+  bio              : "PhD student in Data Science for Safe Autonomous Systems, TU Dortmund"
+  location         : "Dortmund, DE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FV8k9YAAAAJ&hl=en"
-  email            : "sedjro.salomon.hotegni@uni-paderborn.de"
+  email            : "salomon.hotegni@tu-dortmund.de"
   researchgate     : #"https://www.researchgate.net/profile/Sedjro-Salomon-Hotegni" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "s%C3%A8djro-salomon-hotegni-82a03a202"
+  linkedin         : "sedjro-salomon-hotegni"
   orcid            : #"https://orcid.org/0000-0002-5682-467X" # "https://orcid.org/0000-0002-4519-9709"
   pinterest        :
   soundcloud       :
