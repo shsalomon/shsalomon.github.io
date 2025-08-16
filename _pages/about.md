@@ -14,7 +14,7 @@ redirect_from:
 
 Welcome to my personal website!🤗
 
-I'm a PhD student in **Data Science for Safe Autonomous Systems** at **TU Dortmund**, in **Germany**.<br />
+I am a PhD student in Computer Science (Multi-criteria Machine Learning) with the Safe Autonomous Systems group at TU Dortmund University, Germany.<br />
 As a member of the AI junior research group “Multicriteria Machine Learning – Efficiency, Robustness, Inter-activity and System Knowledge”, I'm currently working with Prof Sebastian Peitz on the development of efficient optimization algorithms for training neural networks regarding multiple conflicting objective functions.<br />
 
 Glad you visited my page. You can take a look at my latest post, and if you enjoyed it, the previous ones will be thrilled to have you!🤗👐 <br />
