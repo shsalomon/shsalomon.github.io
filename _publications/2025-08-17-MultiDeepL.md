@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Multi-objective deep learning: Taxonomy and survey of the state of the art"
 permalink: /publications/2025-MultiDeepL
