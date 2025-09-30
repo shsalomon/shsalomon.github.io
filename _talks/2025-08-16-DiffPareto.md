@@ -2,7 +2,7 @@
 title: "A Diffusion-Driven Generative Framework for Pareto Front Learning"
 collection: talks
 type: "Talk"
-link: "https://euro2025leeds.uk/](https://shsalomon.github.io/talks/2025-DiffPareto"
+link: "https://shsalomon.github.io/talks/2025-DiffPareto"
 permalink: /talks/2025-DiffPareto
 venue: "University of Leeds"
 date: 2025-06-25
