@@ -14,4 +14,4 @@ centers set. More precisely, given a set of `n` points in a metric space `(P, d)
 `(i.e., P = P1 ⊎ P2 ⊎ · · · ⊎ Pℓ)` and a set of `ℓ` intervals `[α1, β1], · · · , [αℓ, βℓ]` on desired number of centers from each group, the goal is to pick a set of k centers `C` with minimum `ℓp-clustering` cost such that for each group `i ∈ ℓ, |C ∩ Pi| ∈ [αi, βi]`. In particular, the fair range `ℓp-clustering` captures fair range `k-center`, `k-median` and `k-means` as its special cases. In this work, we provide an efficient constant factor approximation algorithm for the fair range `ℓp-clustering` for all values of `p ∈ [1, ∞)`.
 
 
-[Read paper here](https://openreview.net/pdf?id=gBoKJT5JhM)
+[Read paper here](https://proceedings.mlr.press/v202/hotegni23a.html)
