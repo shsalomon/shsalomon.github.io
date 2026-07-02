@@ -1,7 +1,70 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Pareto-Splat"
+excerpt: "A reproducible research pipeline for studying quality, speed, and model-size trade-offs in
+3D Gaussian Splatting.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Pareto-Splat
+Pareto-Splat is a reproducible research pipeline for studying quality, speed,
+and model-size trade-offs in
+[3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting).
+It wraps a pinned GraphDeCo baseline with held-out evaluation, CUDA profiling,
+post-training Gaussian pruning, Pareto-front analysis, controlled robustness
+studies, and presentation tooling.
+
+Default objective vector:
+
+```math
+f(x) = [\mathrm{PSNR}(x), \mathrm{FPS}(x), -\mathrm{SizeMiB}(x)]
+```
+
+## Comparison Images
+
+### Lego ground truth vs baseline render, frame 00000
+
+[![Lego ground truth vs baseline render, frame 00000](images/lego_gt_vs_baseline_00000.png)](images/lego_gt_vs_baseline_00000.png)
+
+### Lego pruning operating points, frame 00000
+
+[![Lego pruning operating points, frame 00000](images/lego_pruning_operating_points_00000.png)](images/lego_pruning_operating_points_00000.png)
+
+### Lego ground truth vs baseline render, frame 00100
+
+[![Lego ground truth vs baseline render, frame 00100](images/lego_gt_vs_baseline_00100.png)](images/lego_gt_vs_baseline_00100.png)
+
+### Lego pruning operating points, frame 00100
+
+[![Lego pruning operating points, frame 00100](images/lego_pruning_operating_points_00100.png)](images/lego_pruning_operating_points_00100.png)
+
+
+## Plots
+
+### Pruning Pareto front: PSNR vs FPS
+
+[![Pruning Pareto front: PSNR vs FPS](plots/pruning_pareto_psnr_vs_fps.png)](plots/pruning_pareto_psnr_vs_fps.png)
+
+### Pruning Pareto front: PSNR vs model size
+
+[![Pruning Pareto front: PSNR vs model size](plots/pruning_pareto_psnr_vs_size.png)](plots/pruning_pareto_psnr_vs_size.png)
+
+### Pruning 3D Pareto front
+
+[![Pruning 3D Pareto front](plots/pruning_pareto_psnr_fps_size_3d.png)](plots/pruning_pareto_psnr_fps_size_3d.png)
+
+### Importance ablation Pareto front: PSNR vs FPS
+
+[![Importance ablation Pareto front: PSNR vs FPS](plots/importance_pareto_psnr_vs_fps.png)](plots/importance_pareto_psnr_vs_fps.png)
+
+### Pose sensitivity: PSNR drop vs rotation
+
+[![Pose sensitivity: PSNR drop vs rotation](plots/pose_psnr_drop_vs_rotation.png)](plots/pose_psnr_drop_vs_rotation.png)
+
+### Input sensitivity: PSNR drop by variant
+
+[![Input sensitivity: PSNR drop by variant](plots/input_psnr_drop_by_variant.png)](plots/input_psnr_drop_by_variant.png)
+
+
+## Videos
+
+- [Lego ground-truth versus 3DGS orbit video](videos/lego_ground_truth_vs_3dgs.mp4)
