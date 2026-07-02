@@ -2,15 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Talks and Presentations"
-    url: /talks/
 
   - title: "Projects"
     url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "Talks and Presentations"
+    url: /talks/
     
   # - title: "CV"
   #   url: /cv/
