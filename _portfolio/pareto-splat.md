@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 # Pareto-Splat
-Pareto-Splat is a reproducible research pipeline for studying quality, speed,
+[Pareto-Splat](https://github.com/salomonhotegni/pareto-3d-splat) is a reproducible research pipeline for studying quality, speed,
 and model-size trade-offs in
 [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting).
 It wraps a pinned GraphDeCo baseline with held-out evaluation, CUDA profiling,
