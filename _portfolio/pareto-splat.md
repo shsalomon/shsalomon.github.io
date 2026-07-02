@@ -42,27 +42,27 @@ f(x) = [\mathrm{PSNR}(x), \mathrm{FPS}(x), -\mathrm{SizeMiB}(x)]
 
 ### Pruning Pareto front: PSNR vs FPS
 
-[![Pruning Pareto front: PSNR vs FPS](plots/pruning_pareto_psnr_vs_fps.png)](plots/pruning_pareto_psnr_vs_fps.png)
+[![Pruning Pareto front: PSNR vs FPS](images/pruning_pareto_psnr_vs_fps.png)](plots/pruning_pareto_psnr_vs_fps.png)
 
 ### Pruning Pareto front: PSNR vs model size
 
-[![Pruning Pareto front: PSNR vs model size](plots/pruning_pareto_psnr_vs_size.png)](plots/pruning_pareto_psnr_vs_size.png)
+[![Pruning Pareto front: PSNR vs model size](images/pruning_pareto_psnr_vs_size.png)](plots/pruning_pareto_psnr_vs_size.png)
 
 ### Pruning 3D Pareto front
 
-[![Pruning 3D Pareto front](plots/pruning_pareto_psnr_fps_size_3d.png)](plots/pruning_pareto_psnr_fps_size_3d.png)
+[![Pruning 3D Pareto front](images/pruning_pareto_psnr_fps_size_3d.png)](plots/pruning_pareto_psnr_fps_size_3d.png)
 
 ### Importance ablation Pareto front: PSNR vs FPS
 
-[![Importance ablation Pareto front: PSNR vs FPS](plots/importance_pareto_psnr_vs_fps.png)](plots/importance_pareto_psnr_vs_fps.png)
+[![Importance ablation Pareto front: PSNR vs FPS](images/importance_pareto_psnr_vs_fps.png)](plots/importance_pareto_psnr_vs_fps.png)
 
 ### Pose sensitivity: PSNR drop vs rotation
 
-[![Pose sensitivity: PSNR drop vs rotation](plots/pose_psnr_drop_vs_rotation.png)](plots/pose_psnr_drop_vs_rotation.png)
+[![Pose sensitivity: PSNR drop vs rotation](images/pose_psnr_drop_vs_rotation.png)](plots/pose_psnr_drop_vs_rotation.png)
 
 ### Input sensitivity: PSNR drop by variant
 
-[![Input sensitivity: PSNR drop by variant](plots/input_psnr_drop_by_variant.png)](plots/input_psnr_drop_by_variant.png)
+[![Input sensitivity: PSNR drop by variant](images/input_psnr_drop_by_variant.png)](plots/input_psnr_drop_by_variant.png)
 
 
 ## Videos
