@@ -1,10 +1,10 @@
 ---
-title: "Pareto-Splat"
+title: "Pareto-Splat: A Detailed Guide to Quality-Efficiency Trade-offs in 3D Gaussian Splatting"
 excerpt: "A reproducible research pipeline for studying quality, speed, and model-size trade-offs in 3D Gaussian Splatting.<br/><img src='/images/pareto_splat_resized.png'>"
 collection: portfolio
 ---
 
-# Pareto-Splat
+# Pareto-Splat: A Detailed Guide to Quality-Efficiency Trade-offs in 3D Gaussian Splatting
 
 [Pareto-Splat](https://github.com/salomonhotegni/pareto-3d-splat) is a reproducible research pipeline for studying quality, speed,
 and model-size trade-offs in
@@ -19,6 +19,7 @@ Default objective vector:
 f(x) = [\mathrm{PSNR}(x), \mathrm{FPS}(x), -\mathrm{SizeMiB}(x)]
 ```
 
+<!---
 ## Comparison Images
 
 ### Lego ground truth vs baseline render, frame 00000
@@ -69,3 +70,4 @@ f(x) = [\mathrm{PSNR}(x), \mathrm{FPS}(x), -\mathrm{SizeMiB}(x)]
 
 - [Lego ground-truth versus 3DGS orbit video](videos/lego_ground_truth_vs_3dgs.mp4)
 
+-->
