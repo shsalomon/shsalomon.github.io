@@ -10,4 +10,3 @@ Our training method uses an embedding space in which cosine similarity loss and 
 <p align="center">
   <img src="/images/morel_plots.png" alt="morel plots" width="700">
 </p>
--->
