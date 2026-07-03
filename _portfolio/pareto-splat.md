@@ -11,7 +11,9 @@ It wraps a pinned GraphDeCo baseline with held-out evaluation, CUDA profiling,
 post-training Gaussian pruning, Pareto-front analysis, controlled robustness
 studies, and presentation tooling.
 
-[![Pruning Pareto front: PSNR vs FPS](images/pruning_pareto_psnr_vs_fps.png)](images/pruning_pareto_psnr_vs_fps.png)
+<p align="center">
+  <img src="/images/pruning_pareto_psnr_vs_fps.png" alt="Pruning Pareto front: PSNR vs FPS" width="700">
+</p>
 
 <!---
 Default objective vector:
