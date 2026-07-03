@@ -4,8 +4,6 @@ excerpt: "A reproducible research pipeline for studying quality, speed, and mode
 collection: portfolio
 ---
 
-# Pareto-Splat: A Detailed Guide to Quality-Efficiency Trade-offs in 3D Gaussian Splatting
-
 [Pareto-Splat](https://github.com/salomonhotegni/pareto-3d-splat) is a reproducible research pipeline for studying quality, speed,
 and model-size trade-offs in
 [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting).
@@ -13,11 +11,15 @@ It wraps a pinned GraphDeCo baseline with held-out evaluation, CUDA profiling,
 post-training Gaussian pruning, Pareto-front analysis, controlled robustness
 studies, and presentation tooling.
 
+[![Pruning Pareto front: PSNR vs FPS](images/pruning_pareto_psnr_vs_fps.png)](plots/pruning_pareto_psnr_vs_fps.png)
+
+<!---
 Default objective vector:
 
 ```math
 f(x) = [\mathrm{PSNR}(x), \mathrm{FPS}(x), -\mathrm{SizeMiB}(x)]
 ```
+--->
 
 <!---
 ## Comparison Images
