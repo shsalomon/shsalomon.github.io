@@ -1,6 +1,6 @@
 ---
 title: "Pareto-Splat: A Detailed Guide to Quality-Efficiency Trade-offs in 3D Gaussian Splatting"
-excerpt: "A reproducible research pipeline for studying quality, speed, and model-size trade-offs in 3D Gaussian Splatting.<br/><img src='/images/lego_ground_truth_vs_3dgs.gif'>"
+excerpt: "A reproducible research pipeline for studying quality, speed, and model-size trade-offs in 3D Gaussian Splatting.<br/><img src='/images/lego_ground_truth_vs_3dgs_resized.gif'>"
 collection: portfolio
 ---
 
