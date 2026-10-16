@@ -1,5 +1,5 @@
 ---
-title: "FrameCite video knowledge agent"
+title: "FrameCite Video Knowledge Agent"
 excerpt: "A video knowledge agent that searches spoken explanations and visual descriptions, inspects original frames, and returns claims with playable timestamp citations.<br/><img src='/images/framecite_display_resized.png'>"
 collection: portfolio
 ---
